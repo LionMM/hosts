@@ -1,0 +1,132 @@
+#<localhost>
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+fe80::1%lo0    	localhost
+#</localhost>
+
+##  Appends
+
+192.168.1.111 cdn.snovidov.com
+192.168.1.111 grabber.snovidov.com
+192.168.1.111 gfs.snovidov.com
+192.168.1.111 links.snovidov.com
+192.168.1.111 box.snovidov.com
+192.168.1.111 snovidov.com
+192.168.1.111 redis.snovidov.com
+
+
+
+
+0.0.0.0 apps.skype.com
+0.0.0.0 rad.msn.com
+0.0.0.0 g.msn.com
+0.0.0.0 live.rads.msn.com
+0.0.0.0 ads1.msn.com
+0.0.0.0 static.2mdn.net
+0.0.0.0 g.msn.com
+0.0.0.0 a.ads2.msads.net
+0.0.0.0 b.ads2.msads.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ac3.msn.com
+0.0.0.0 rad.msn.com
+0.0.0.0 msntest.serving-sys.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 flex.msn.com
+0.0.0.0 ec.atdmt.com
+0.0.0.0 cdn.atdmt.com
+0.0.0.0 db3aqu.atdmt.com
+0.0.0.0 cds26.ams9.msecn.net
+0.0.0.0 sO.2mdn.net
+0.0.0.0 aka-cdn-ns.adtech.de
+0.0.0.0 secure.flashtalking.com
+0.0.0.0 adnexus.net
+0.0.0.0 adnxs.com
+0.0.0.0 *.rad.msn.com
+0.0.0.0 *.msads.net
+0.0.0.0 *.msecn.net
+
+0.0.0.0 gbaceby.ru
+0.0.0.0 counter.yadro.ru
+0.0.0.0 srv5.topcpa.ru
+
+############ HACKS ############
+
+0.0.0.0      	lmlicenses.wip4.adobe.com
+0.0.0.0      	lm.licenses.adobe.com
+#74.208.10.249 	gs.apple.com
+0.0.0.0      	macplatform.wondershare.com
+0.0.0.0      	update.parallels.com
+0.0.0.0      	registration.parallels.com
+0.0.0.0      	activate.adobe.com
+
+0.0.0.0 192.150.14.69
+0.0.0.0 192.150.18.101
+0.0.0.0 192.150.18.108
+0.0.0.0 192.150.22.40
+0.0.0.0 192.150.8.100
+0.0.0.0 192.150.8.118
+0.0.0.0 209-34-83-73.ood.opsource.net
+0.0.0.0 3dns-1.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-4.adobe.com
+0.0.0.0 3dns.adobe.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 activate.wip.adobe.com
+0.0.0.0 activate.wip1.adobe.com
+0.0.0.0 activate.wip2.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 activate.wip4.adobe.com
+0.0.0.0 adobe-dns-1.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 adobe-dns-4.adobe.com
+0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 adobe.activate.com
+0.0.0.0 adobeereg.com
+0.0.0.0 crl.verisign.net
+0.0.0.0 CRL.VERISIGN.NET.*
+0.0.0.0 ereg.adobe.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 ereg.wip.adobe.com
+0.0.0.0 ereg.wip1.adobe.com
+0.0.0.0 ereg.wip2.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 ereg.wip4.adobe.com
+0.0.0.0 hl2rcv.adobe.com
+0.0.0.0 ood.opsource.net
+0.0.0.0 practivate.adobe
+0.0.0.0 practivate.adobe.*
+0.0.0.0 practivate.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 practivate.adobe.ipp
+0.0.0.0 practivate.adobe.newoa
+0.0.0.0 practivate.adobe.ntp
+0.0.0.0 tss-geotrust-crl.thawte.com
+0.0.0.0 wip.adobe.com
+0.0.0.0 wip1.adobe.com
+0.0.0.0 wip2.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 wip4.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+
+###
+
