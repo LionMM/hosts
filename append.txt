@@ -11,13 +11,19 @@
 ##  Appends
 
 192.168.1.111 cdn.snovidov.com
+192.168.1.111 img.snovidov.com
 192.168.1.111 grabber.snovidov.com
 192.168.1.111 gfs.snovidov.com
 192.168.1.111 links.snovidov.com
 192.168.1.111 box.snovidov.com
 192.168.1.111 snovidov.com
 192.168.1.111 redis.snovidov.com
-192.168.1.111 vk.snovidov.com
+192.168.1.111 pt.snovidov.com
+192.168.1.111 redis.snovidov.com
+192.168.1.111 pwd.snovidov.com
+192.168.1.111 home.snovidov.com
+192.168.1.111 docker.snovidov.com
+192.168.1.111 vid.snovidov.com
 
 
 
