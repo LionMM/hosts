@@ -59,6 +59,8 @@
 0.0.0.0 gbaceby.ru
 0.0.0.0 counter.yadro.ru
 0.0.0.0 srv5.topcpa.ru
+0.0.0.0 yoredi.com
+0.0.0.0 29d65cebb82ef9f.com
 
 ############ HACKS ############
 

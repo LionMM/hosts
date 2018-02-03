@@ -1,5 +1,5 @@
 #
-# Last updated: 2018.02.03 14:27:59
+# Last updated: 2018.02.03 14:30:44
 #
 
 #<localhost>
@@ -63,6 +63,8 @@
 0.0.0.0 gbaceby.ru
 0.0.0.0 counter.yadro.ru
 0.0.0.0 srv5.topcpa.ru
+0.0.0.0 yoredi.com
+0.0.0.0 29d65cebb82ef9f.com
 
 ############ HACKS ############
 
